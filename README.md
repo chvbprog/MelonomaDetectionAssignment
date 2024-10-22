@@ -7,7 +7,6 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -25,11 +24,6 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -42,9 +36,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
+Give credit here
 - This project was based on Melonoma Detection assignment by upgrad
 
 
