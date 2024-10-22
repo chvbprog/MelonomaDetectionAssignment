@@ -36,9 +36,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
+Give credit here
 - This project was based on Melonoma Detection assignment by upgrad
 
 
